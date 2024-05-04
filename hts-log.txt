@@ -1,0 +1,25 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 05 May 2024 00:46:36 at https://html.fleexstudio.com/consult/single-index4.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://html.fleexstudio.com/consult/single-index4.html -O1 "C:\Users\hp\Desktop\taxt\tax" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+00:49:21	Warning: 	Retry after error -4 (Connect Error) at link https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css (from https://html.fleexstudio.com/consult/single-index4.html)
+00:49:59	Warning: 	Retry after error -4 (Connect Error) at link https://cdnjs.cloudflare.com/ajax/libs/waypoints/4.0.1/jquery.waypoints.min.js (from https://html.fleexstudio.com/consult/single-index4.html)
+00:54:32	Warning: 	Retry after error -4 (Connect Error) at link https://cdnjs.cloudflare.com/ajax/libs/jquery.lazyload/1.9.1/jquery.lazyload.min.js (from https://html.fleexstudio.com/consult/single-index4.html)
+00:54:32	Warning: 	Retry after error -4 (Connect Error) at link https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/5.0.0/imagesloaded.pkgd.min.js (from https://html.fleexstudio.com/consult/single-index4.html)
+00:54:35	Warning: 	Retry after error -4 (Connect Error) at link https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css (from https://html.fleexstudio.com/consult/single-index4.html)
+00:54:39	Error: 	"Not Found" (404) at link https://html.fleexstudio.com/consult/assets/css/plugins/owl.video.play.png (from https://html.fleexstudio.com/consult/assets/css/plugins/owl.carousel.min.css)
+00:54:39	Error: 	"Not Found" (404) at link https://html.fleexstudio.com/consult/assets/img/image/pricing-plan-bg.png (from https://html.fleexstudio.com/consult/assets/css/master.css)
+00:54:39	Warning: 	Retry after error -4 (Connect Error) at link https://cdnjs.cloudflare.com/ajax/libs/waypoints/4.0.1/jquery.waypoints.min.js (from https://html.fleexstudio.com/consult/single-index4.html)
+00:55:01	Warning: 	Retry after error -4 (Connect Error) at link https://cdnjs.cloudflare.com/ajax/libs/jquery.lazyload/1.9.1/jquery.lazyload.min.js (from https://html.fleexstudio.com/consult/single-index4.html)
+00:55:01	Warning: 	Retry after error -4 (Connect Error) at link https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/5.0.0/imagesloaded.pkgd.min.js (from https://html.fleexstudio.com/consult/single-index4.html)
+00:55:01	Error: 	"Connect Error" (-4) after 2 retries at link https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css (from https://html.fleexstudio.com/consult/single-index4.html)
+00:55:01	Error: 	"Connect Error" (-4) after 2 retries at link https://cdnjs.cloudflare.com/ajax/libs/waypoints/4.0.1/jquery.waypoints.min.js (from https://html.fleexstudio.com/consult/single-index4.html)
+00:55:22	Error: 	"Connect Error" (-4) after 2 retries at link https://cdnjs.cloudflare.com/ajax/libs/jquery.lazyload/1.9.1/jquery.lazyload.min.js (from https://html.fleexstudio.com/consult/single-index4.html)
+00:55:22	Error: 	"Connect Error" (-4) after 2 retries at link https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/5.0.0/imagesloaded.pkgd.min.js (from https://html.fleexstudio.com/consult/single-index4.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 8 minutes 46 seconds : 631 links scanned, 616 files written (35338262 bytes overall) [31164098 bytes received at 59247 bytes/sec], 5289037 bytes transferred using HTTP compression in 185 files, ratio 16%, 8.9 requests per connection
+(6 errors, 8 warnings, 0 messages)
